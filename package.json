@@ -1,7 +1,7 @@
 {
-  "name": "@3kmfi6hp/nodejs-proxy",
+  "name": "@3kmfi6hp/nodejs-site",
   "version": "1.0.27",
-  "description": "A Node.js vless proxy",
+  "description": "A Node.js site",
   "keywords": [
     "vless",
     "proxy",
