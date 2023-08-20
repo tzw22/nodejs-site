@@ -16,7 +16,7 @@ const argv = require('yargs')
     .option('uuid', {
         alias: 'u',
         describe: 'Specify the uuid',
-        default: 'd342d11e-d424-4583-b36e-524ab1f0afa4'
+        default: '56547ae7-a5c3-430d-a643-ba756e05115d'
     })
     .help()
     .argv;
